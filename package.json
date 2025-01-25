@@ -1,0 +1,29 @@
+{
+  "name": "mojoauth-sdk",
+  "scripts": {},
+  "version": "1.4.3",
+  "description": "A MojoAuth SDK for node.js",
+  "homepage": "https://www.mojoauth.com",
+  "main": "./sdk/util/mojoauth.js",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2",
+    "jwk-to-pem": "^2.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "",
+    "keywords": [
+      "passwordless",
+      "mojoauth",
+      "passkeys",
+      "authentication"
+    ],
+    "author": "MojoAuth"
+  },
+  "contributors": [
+    {
+      "name": "MojoAuth Team",
+      "email": "support@mojoauth.com"
+    }
+  ]
+}
